@@ -32,9 +32,9 @@ MIT
 
 ## Questions
 
-It is your responsibility to include a note in the README section of your repo specifying code source and its location within your repo.
+It is your responsibility to include a note in the README section of your repo specifying the code source and its location within your repo.
 
-The starter code is provided by the class module. I worked on the apiRoutes.js, htmlRoutes.js, and server.js files that are from what I learned in the class, class module activities, BCS-tutoring sessions and also by reading express documentation online. 
+The starter code is provided by the class module. I worked on the apiRoutes.js, htmlRoutes.js, and server.js files that are from what I learned in the class, class module activities, BCS-tutoring sessions, and also by reading express documentation online. 
 
 
 
